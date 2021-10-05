@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @risky-bit
+- 👋 Hi, I’m @risky-bit, a Computer Science student.
 - 👀 I’m interested in data science, its applications, SQL, Python, computer games, & also cloud services like azure & AWS.
-- 🌱 I’m currently learning SQL, Python, statistics, & data analysis.
+- 🌱 I’m currently learning SQL, Python, statistics, QA autoomation & data analysis.
 - 💞️ I’m looking to collaborate on Data related projects, & other projects where my skills are relevant or I can learn by contributing all I can to the project.
 - 📫 How to reach me: https://www.linkedin.com/in/danyal-danish-b21b43157/
 
